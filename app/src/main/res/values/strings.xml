@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bus Schedule</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_schedule">New Schedule</string>
+    <string name="all_schedules">All Schedules</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
